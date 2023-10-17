@@ -1,0 +1,4 @@
+module Munchausen {
+  header "crypto-eth.h"
+  export *
+}
